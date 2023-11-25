@@ -1,8 +1,3 @@
-# Oliver Salzburg
-
-- ⭐ = Under active maintenance
-- 🩺 = Degraded, needs work
-
 ## Noteable GitHub Projects
 
 1. [Kitten Science](https://github.com/kitten-science) ⭐
@@ -60,3 +55,6 @@ A set of templates to start a project with [modern yarn](https://yarnpkg.com/).
 1. [yarn3-typescript-web-vite](https://github.com/oliversalzburg/yarn3-typescript-web-vite) ⭐
 
    A browser project that uses [vite](https://vitejs.dev/).
+
+- ⭐ = Under active maintenance
+- 🩺 = Degraded, needs work
