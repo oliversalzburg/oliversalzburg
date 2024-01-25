@@ -13,7 +13,7 @@
    Pre-built container images for IaC tasks.
 
 1. [PlantDB](https://github.com/oliversalzburg/plantdb) 🩺  
-    A framework to maintain a log for plants.
+   A framework to maintain a log for plants.
 
 1. [The Alliance (Titan & Rebels Chipdisc #1)](https://github.com/oliversalzburg/TitanRebelsChipdisc1)  
    A chipdisc by Titan & Rebels built in 2006.
@@ -25,7 +25,7 @@
    A node-based playground for JavaScript.
 
 1. [docker-cloudflare-dns](https://github.com/oliversalzburg/docker-cloudflare-dns)  
-    Updates CloudFlare DNS with IP addresses of running Docker containers.
+   Updates CloudFlare DNS with IP addresses of running Docker containers.
 
 ## Project Templates
 
@@ -43,5 +43,8 @@ A set of templates to start a project with [modern yarn](https://yarnpkg.com/).
 1. [yarn3-typescript-web-vite](https://github.com/oliversalzburg/yarn3-typescript-web-vite) ⭐  
    A browser project that uses [vite](https://vitejs.dev/).
 
-- ⭐ = Under active maintenance
-- 🩺 = Degraded, needs work
+1. [aws-lambda-nodejs](https://github.com/oliversalzburg/aws-lambda-nodejs) ⭐  
+   JavaScript project with AWS Lambda NodeJS runtime target.
+
+-   ⭐ = Under active maintenance
+-   🩺 = Degraded, needs work
