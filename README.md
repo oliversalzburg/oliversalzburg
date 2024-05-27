@@ -1,3 +1,5 @@
+![GitHub Contributor Status](https://img.shields.io/badge/GitHub_Contributor_Level-Chef's_Kiss-blue?style=plastic)
+
 ## Noteable GitHub Projects
 
 1. [Kitten Science](https://github.com/kitten-science) ⭐  
