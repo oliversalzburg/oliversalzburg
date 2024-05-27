@@ -1,4 +1,4 @@
-![GitHub Contributor Status](https://img.shields.io/badge/GitHub_Contributor_Level-Chef's_Kiss-blue?style=plastic)
+![Official GitHub Contributor Status](https://img.shields.io/badge/Official_GitHub_Contributor_Level-Chef's_Kiss-blue?style=plastic)
 
 ## Noteable GitHub Projects
 
