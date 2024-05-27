@@ -29,6 +29,14 @@
 1. [docker-cloudflare-dns](https://github.com/oliversalzburg/docker-cloudflare-dns)  
    Updates CloudFlare DNS with IP addresses of running Docker containers.
 
+## GitHub Actions
+
+1. [Automatic Semantic Releases Action](https://github.com/marketplace/actions/automatic-semantic-releases)
+
+1. [Commit Validator Action](https://github.com/marketplace/actions/commit-validator)
+
+1. [Label Manager Action](https://github.com/marketplace/actions/label-manager)
+
 ## Project Templates
 
 A set of templates to start a project with [modern yarn](https://yarnpkg.com/).
