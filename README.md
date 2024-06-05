@@ -31,11 +31,14 @@
 
 ## GitHub Actions
 
-1. [Automatic Semantic Releases Action](https://github.com/marketplace/actions/automatic-semantic-releases)
+1. [Automatic Semantic Releases Action](https://github.com/marketplace/actions/automatic-semantic-releases) ⭐  
+   Create GitHub releases with zero effort.
 
-1. [Commit Validator Action](https://github.com/marketplace/actions/commit-validator)
+1. [Commit Validator Action](https://github.com/marketplace/actions/commit-validator) ⭐  
+   Ensure commits in your repository align with [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/) expectations.
 
-1. [Label Manager Action](https://github.com/marketplace/actions/label-manager)
+1. [Label Manager Action](https://github.com/marketplace/actions/label-manager) ⭐  
+   Maintain the labels in your GitHub project through code.
 
 ## Project Templates
 
