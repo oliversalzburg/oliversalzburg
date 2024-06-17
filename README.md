@@ -3,31 +3,28 @@
 ## Noteable GitHub Projects
 
 1. [Kitten Science](https://github.com/kitten-science) ⭐  
-   Organization for everything relating to [Kitten Scientists v2](https://github.com/kitten-science/kitten-scientists) for [Kittens Game](https://kittensgame.com/).
+   Everything relating to [Kitten Scientists v2](https://github.com/kitten-science/kitten-scientists) for [Kittens Game](https://kittensgame.com/).
+
+1. [APT Repositories](https://github.com/apt-repositories) ⭐  
+   Provides APT metadata for Debian/Ubuntu package repositories.
 
 1. [node-scripts-docs](https://github.com/oliversalzburg/node-scripts-docs) ⭐  
-   Create a reference documentation for your scripts in `package.json`.
+   Create reference documentations for scripts in NodeJS `package.json` manifests.
 
 1. [js-utils](https://github.com/oliversalzburg/js-utils) ⭐  
-   Common utilities for JS/TS projects.
+   Common utilities for JS/TS projects with zero dependencies.
 
 1. [containers](https://github.com/oliversalzburg/containers) ⭐  
-   Pre-built container images for IaC tasks.
-
-1. [PlantDB](https://github.com/oliversalzburg/plantdb) 🩺  
-   A framework to maintain a log for plants.
+   General workload containerization playground.
 
 1. [The Alliance (Titan & Rebels Chipdisc #1)](https://github.com/oliversalzburg/TitanRebelsChipdisc1)  
    A chipdisc by Titan & Rebels built in 2006.
-
-1. [OmniUDP](https://github.com/oliversalzburg/omniudp)  
-   UID broadcaster for OmniKey 5321 and other RFID readers.
 
 1. [Nodes.js](https://github.com/oliversalzburg/nodes-js)  
    A node-based playground for JavaScript.
 
 1. [docker-cloudflare-dns](https://github.com/oliversalzburg/docker-cloudflare-dns)  
-   Updates CloudFlare DNS with IP addresses of running Docker containers.
+   Updates CloudFlare DNS with IP addresses of running Docker containers. Also illustrates how to containerize NodeJS workloads.
 
 ## GitHub Actions
 
@@ -60,4 +57,4 @@ A set of templates to start a project with [modern yarn](https://yarnpkg.com/).
    JavaScript project with AWS Lambda NodeJS runtime target.
 
 -   ⭐ = Under active maintenance
--   🩺 = Degraded, needs work
+
