@@ -39,22 +39,20 @@
 
 ## Project Templates
 
-A set of templates to start a project with [modern yarn](https://yarnpkg.com/).
-
-1. [yarn3-hugo](https://github.com/oliversalzburg/yarn3-hugo) ⭐  
-   [Hugo](https://gohugo.io/) static website.
-
-1. [yarn3-monorepo](https://github.com/oliversalzburg/yarn3-monorepo) ⭐  
+1. [js-monorepo](https://github.com/oliversalzburg/js-monorepo) ⭐  
    A JS/TS monorepo.
 
-1. [yarn3-typescript-nodejs-esbuild](https://github.com/oliversalzburg/yarn3-typescript-nodejs-esbuild) ⭐  
+1. [nodejs](https://github.com/oliversalzburg/nodejs) ⭐  
    A NodeJS project that uses [esbuild](https://esbuild.github.io/).
 
-1. [yarn3-typescript-web-vite](https://github.com/oliversalzburg/yarn3-typescript-web-vite) ⭐  
+1. [browser](https://github.com/oliversalzburg/browser) ⭐  
    A browser project that uses [vite](https://vitejs.dev/).
 
 1. [aws-lambda-nodejs](https://github.com/oliversalzburg/aws-lambda-nodejs) ⭐  
    JavaScript project with AWS Lambda NodeJS runtime target.
+
+1. [hugo](https://github.com/oliversalzburg/hugo) ⭐  
+   [Hugo](https://gohugo.io/) static website.
 
 -   ⭐ = Under active maintenance
 
