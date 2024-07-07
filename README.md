@@ -1,6 +1,4 @@
-![Official GitHub Contributor Status](https://img.shields.io/badge/Official_GitHub_Contributor_Level-Chef's_Kiss-blue?style=plastic)
-
-## Noteable GitHub Projects
+## Projects
 
 1. [Kitten Science](https://github.com/kitten-science) ⭐  
    Everything relating to [Kitten Scientists v2](https://github.com/kitten-science/kitten-scientists) for [Kittens Game](https://kittensgame.com/).
@@ -26,7 +24,7 @@
 1. [docker-cloudflare-dns](https://github.com/oliversalzburg/docker-cloudflare-dns)  
    Updates CloudFlare DNS with IP addresses of running Docker containers. Also illustrates how to containerize NodeJS workloads.
 
-## GitHub Actions
+## Actions
 
 1. [Automatic Semantic Releases Action](https://github.com/marketplace/actions/automatic-semantic-releases) ⭐  
    Create GitHub releases with zero effort.
@@ -37,7 +35,7 @@
 1. [Label Manager Action](https://github.com/marketplace/actions/label-manager) ⭐  
    Maintain the labels in your GitHub project through code.
 
-## Project Templates
+## Templates
 
 1. [js-monorepo](https://github.com/oliversalzburg/js-monorepo) ⭐  
    A JS/TS monorepo.
