@@ -16,10 +16,10 @@
    General workload containerization playground.
 
 1. [The Alliance (Titan & Rebels Chipdisc #1)](https://github.com/oliversalzburg/TitanRebelsChipdisc1)  
-   A chipdisc by Titan & Rebels built in 2006.
+   Chipdisc by Titan & Rebels built in 2006.
 
 1. [Nodes.js](https://github.com/oliversalzburg/nodes-js)  
-   A node-based playground for JavaScript.
+   Node-based playground for JavaScript.
 
 1. [docker-cloudflare-dns](https://github.com/oliversalzburg/docker-cloudflare-dns)  
    Updates CloudFlare DNS with IP addresses of running Docker containers. Also illustrates how to containerize NodeJS workloads.
@@ -35,16 +35,19 @@
 1. [Label Manager Action](https://github.com/marketplace/actions/label-manager) ⭐  
    Maintain the labels in your GitHub project through code.
 
+1. [Shared Workflows](https://github.com/oliversalzburg/workflows) ⭐  
+   Centrally managed pipelines for most maintained projects.
+
 ## Templates
 
 1. [js-monorepo](https://github.com/oliversalzburg/js-monorepo) ⭐  
-   A JS/TS monorepo.
+   JS/TS monorepo, using yarn project manager.
 
 1. [nodejs](https://github.com/oliversalzburg/nodejs) ⭐  
-   A NodeJS project that uses [esbuild](https://esbuild.github.io/).
+   NodeJS project that uses [esbuild](https://esbuild.github.io/).
 
 1. [browser](https://github.com/oliversalzburg/browser) ⭐  
-   A browser project that uses [vite](https://vitejs.dev/).
+   Browser project that uses [vite](https://vitejs.dev/).
 
 1. [aws-lambda-nodejs](https://github.com/oliversalzburg/aws-lambda-nodejs) ⭐  
    JavaScript project with AWS Lambda NodeJS runtime target.
@@ -53,4 +56,3 @@
    [Hugo](https://gohugo.io/) static website.
 
 -   ⭐ = Under active maintenance
-
