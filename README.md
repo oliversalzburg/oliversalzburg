@@ -41,7 +41,7 @@
 ## Templates
 
 1. [js-monorepo](https://github.com/oliversalzburg/js-monorepo) ⭐  
-   JS/TS monorepo, using yarn project manager.
+   JS/TS monorepo, using [yarn project manager](https://yarnpkg.com/).
 
 1. [nodejs](https://github.com/oliversalzburg/nodejs) ⭐  
    NodeJS project that uses [esbuild](https://esbuild.github.io/).
@@ -50,9 +50,9 @@
    Browser project that uses [vite](https://vitejs.dev/).
 
 1. [aws-lambda-nodejs](https://github.com/oliversalzburg/aws-lambda-nodejs) ⭐  
-   JavaScript project with AWS Lambda NodeJS runtime target.
+   JS/TS project with AWS Lambda NodeJS runtime target.
 
-1. [hugo](https://github.com/oliversalzburg/hugo) ⭐  
-   [Hugo](https://gohugo.io/) static website.
+1. [hugo](https://github.com/oliversalzburg/hugo)  
+   Static website built with [Hugo](https://gohugo.io/).
 
 -   ⭐ = Under active maintenance
