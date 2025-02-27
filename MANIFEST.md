@@ -20,10 +20,11 @@
 
 ### Default (phony) make targets
 
-- _default_ produces clean build (literally `clean` `build`)
+- _default_ runs `build`
 - `build` produces build output, acquires dependencies
 - `clean` cleans build output
 - `docs` builds only the documentation
+- `git-hook` installs `pre-commit` hook that runs `make pretty`
 - `pretty` auto-formats code, applies linter auto-fixes
 - `lint` checks the code for common issues
 - `test` runs tests
